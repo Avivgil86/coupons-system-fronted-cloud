@@ -79,7 +79,7 @@ function EditCustomer(): JSX.Element {
                 <span>{formState.errors?.email?.message}</span>
 
                 <label>Password: </label>
-                <input type="string" {...register("password")} />
+                <input type="password" {...register("password")} />
 
 
 
