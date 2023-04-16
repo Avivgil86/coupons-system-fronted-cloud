@@ -1,0 +1,17 @@
+.AuthMenu {
+    color: #E5E5E5;
+    display: flex;
+    gap: 10px;
+    margin-right: 25px;
+
+}
+
+.log {
+    color: #70c2c7;
+    transition: color 0.15s ease-in-out;
+}
+
+.log:hover {
+    text-decoration: none;
+    color: #3c6e71;
+}

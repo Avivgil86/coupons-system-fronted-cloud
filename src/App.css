@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Layout {
+  height: 100vh;
+  width: 100%;
+}
+
+.Layout,
+.Layout>* {
+  border: 1px solid #E5E5E5;
+  overflow: auto;
+}
+
+.Layout header {
+  height: 10%;
+
+}
+
+
+.Layout .content-container {
+  height: 85%;
+  width: 100%;
+  display: flex
+  
+}
+
+.Layout aside {
+  height: 100%;
+  width:15%;
+  border: 1px solid #E5E5E5;
+
+}
+
+.Layout main {
+  height: 100%;
+  width: 85%;
+
+
+}
+
+
+.content-container aside{
+  background-color: #14213D;
+}
+
+.Layout footer {
+  height: 5%
+}
+

@@ -1,0 +1,11 @@
+.login-card {
+    background-color: #f6f8fa;
+    padding: 12px;
+    border: 1px solid #d8dee4;
+    border-radius: 6px;
+}
+
+
+.login-button {
+    margin: 15px 0;
+}

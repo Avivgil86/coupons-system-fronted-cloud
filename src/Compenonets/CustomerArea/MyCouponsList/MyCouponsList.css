@@ -1,0 +1,8 @@
+.CompaniesList{
+    overflow: auto;
+    position: absolute;
+    right: 3%;
+    top: 18%;
+    text-decoration: none;
+    transform: scale(1.5);
+}
